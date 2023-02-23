@@ -5,4 +5,4 @@ For further information about this algorithm and the relevant results, please re
 
 Rezaei, F., Safavi. H.R., Elaziz, M.A., Mirjalili. S. GMO: Geometric Mean Optimizer for solving engineering problems. Soft Computing (2023).
 
-Please cite this article, upon using this source code.
+Please cite this article upon using this source code.
